@@ -20,19 +20,19 @@ UserManagementAPI is a simple and functional API built with ASP.NET Core, enabli
 
 ## API Endpoints
 1. GET /api/users
-Retrieve a list of users.
+  -> Retrieve a list of users.
 
 2. GET /api/users/{id}
-Retrieve a specific user by ID.
+  -> Retrieve a specific user by ID.
 
 3. POST /api/users
-Add a new user (Information on the Request Body below).
+  -> Add a new user (Information on the Request Body below).
 
 4. PUT /api/users/{id}
-Update an existing user's details.
+  -> Update an existing user's details.
 
 5. DELETE /api/users/{id}
-Delete a user by his ID.
+  -> Delete a user by his ID.
 
 Request Body
 ```bash
