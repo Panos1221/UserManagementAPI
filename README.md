@@ -45,4 +45,7 @@ Request Body
     }
 ```
 
+## Authentication
+In order to be able to use the API Endpoints you need to authenticate yourself. You can do so by putting a Header called Authentication with a value of "validTokenYay" without the quotes.
+
 
