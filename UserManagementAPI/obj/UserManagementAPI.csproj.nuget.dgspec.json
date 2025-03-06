@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\UserManagementAPI.csproj": {}
+    "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\UserManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\UserManagementAPI.csproj": {
+    "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\UserManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\UserManagementAPI.csproj",
         "projectName": "UserManagementAPI",
-        "projectPath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectPath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\UserManagementAPI.csproj",
         "packagesPath": "C:\\Users\\pstav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

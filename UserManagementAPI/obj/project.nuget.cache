@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vf5UIa1V2NM=",
+  "dgSpecHash": "/ReSwo5XLaQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementAPI\\UserManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\pstav\\Downloads\\Coursera Submission\\Coursera Submission\\UserManagementApi\\UserManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pstav\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.2\\microsoft.aspnetcore.authentication.jwtbearer.9.0.2.nupkg.sha512",
     "C:\\Users\\pstav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
