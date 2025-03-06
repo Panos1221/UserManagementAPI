@@ -1,0 +1,88 @@
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.staticwebassets.endpoints.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.exe
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.deps.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.runtimeconfig.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\UserManagementAPI.pdb
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.csproj.AssemblyReference.cache
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.AssemblyInfoInputs.cache
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.AssemblyInfo.cs
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\scopedcss\bundle\UserManagementAPI.styles.css
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.UserManagementAPI.props
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementAPI.props
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.UserManagementAPI.props
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserMana.72BC9F28.Up2Date
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\refint\UserManagementAPI.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.pdb
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.genruntimeconfig.cache
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\obj\Debug\net9.0\ref\UserManagementAPI.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pansa\Desktop\Coursera Submission\UserManagementAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\appsettings.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.staticwebassets.endpoints.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.exe
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.deps.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.runtimeconfig.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\UserManagementAPI.pdb
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.csproj.AssemblyReference.cache
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.AssemblyInfoInputs.cache
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.AssemblyInfo.cs
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\scopedcss\bundle\UserManagementAPI.styles.css
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets\msbuild.build.UserManagementAPI.props
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementAPI.props
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.UserManagementAPI.props
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserMana.72BC9F28.Up2Date
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\refint\UserManagementAPI.dll
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.pdb
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\UserManagementAPI.genruntimeconfig.cache
+C:\Users\pstav\Downloads\Coursera Submission\Coursera Submission\UserManagementApi\obj\Debug\net9.0\ref\UserManagementAPI.dll
